@@ -2,7 +2,8 @@
 - 👀 I’m interested in in becoming a decent programmer
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me: italouw253@gmail.com
+- 📫 How to reach me: 
+- Discord: intalo#0097
 
 <!---
 intalo/intalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
