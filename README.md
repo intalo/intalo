@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: 
 - Discord: intalo#0097
-- https://docs.google.com/presentation/d/1E-hWSQRfltA9spd8actO6t-Czip_zJzhZeqrsHKeY2o/edit?usp=sharing
+- https://mega.nz/file/7s01zb7T#HfJ609o6tmUNsoGH0QlTtPu2lki6EVq25U_AdM-Lv-0
 
 <!---
 intalo/intalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
